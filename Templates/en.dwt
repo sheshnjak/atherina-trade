@@ -1,0 +1,62 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-EN">
+<head profile="http://gmpg.org/xfn/11">
+<!-- TemplateBeginEditable name="doctitle" -->
+<title>dalmacija-ribolov.hr</title>
+<!-- TemplateEndEditable -->
+<meta http-equiv="content-type" content="text/html; charset=UTF-8" />
+<link rel="shortcut icon" href="../favicon.ico" />
+<link rel="stylesheet" type="text/css" media="screen" href="../dizajn/css.css" />
+<script src="../dizajn/jquery.js" type="text/javascript"></script>
+<script src="../dizajn/jquery.plugins.js" type="text/javascript"></script>
+<script src="../dizajn/js.js" type="text/javascript"></script>
+<!-- TemplateBeginEditable name="head" -->
+<!-- TemplateEndEditable -->
+</head>
+
+<body>
+<div id="kontejner">
+    <div id="kontejner2">
+      <div id="zaglavlje">
+        <div id="naslov"><a href="../index-en.html" title="Home page">Dalmacija&nbsp;ribolov<br />
+          <span>pilchard, anchovy &amp; bluefin tuna fishing</span></a></div>
+        <ul id="navigacija">
+          <li><a href="../index-en.html">Home page</a> | </li>
+          <li><a href="../kontakt-en.html">Contact &amp; address</a> | </li>
+          <li><a href="../riba-en.html">Pilchard &amp; anchovy</a> | </li>
+          <li><a href="../index.html">Hrvatski</a></li>
+        </ul>
+      </div>
+      <div id="sadrzaj"><!-- TemplateBeginEditable name="sadrzaj" -->
+        <h1>Dalmacija ribolov d.o.o.</h1>
+        <p>Tvrtka Dalmacija ribolov se bavi ulovom i prodajom sitne plave ribe, prvenstveno srdele i inćuna.  Dio ulova sitne plave ribe se koristi kao hrana za tune u uzgajalištu <a href="http://www.jadran-tuna.hr/">Jadran tune</a>, a ostatak plasiramo na tržište. U vlasništvu Dalmacija ribolova su tri moderna ribarska broda.</p>
+<p>Misija tvrtke je prosperirati na tržištu, istodobno vodeći računa o održivom razvoju. Jasno je da u vrijeme naprednih tehnologija lociranja i izlova ribe granica više ne smije biti naša maksimalna mogućnost ulova nego treba voditi računa o prirodnoj ravnoteži. Tradicionalni način gledanja na ribolovne kvote (gdje ribari kvotu doživljavaju kao granicu nametnutu od strane zakonodavca) je kratkovidan i dugoročno vodi u propast. Zbog toga Dalmacija ribolov naglasak stavlja na društvenu odgovornost želeći očuvati prirodna bogatstva koristeći resurse unutar održivih granica ulova kako bi se zadržala prirodna ravnoteža jadranskog ekosustava. </p>
+      <!-- TemplateEndEditable --></div>
+      <div id="info">
+        <h4>Info</h4>
+        <ul>
+          <li>Dalmacija ribolov d.o.o.</li>
+          <li>Poljana Plankit 1<br/>
+            HR-23000 Zadar<br />
+            Croatia
+          </li>
+        </ul>
+        <h4>Contact</h4>
+        <ul>
+          <li><a href="../infoATdalmacija-ribolov.hr" class="emajl">info@dalmacija-ribolov.hr</a></li>
+          <li>Phone +385 23 253 094</li>
+          <li>Fax +385 23 253 095</li>
+          <li>GSM +385 91 323 6900</li>
+        </ul>
+        <h4>Ships</h4>
+<div id="brodovi">
+          <a href="../slike/bruno.jpg" title="Bruno : Length 28.85 m, weight 169 GT, built 2001. Specialized for small bluefish." rel="lbx-brodovi"><img src="../slike/t_bruno.jpg" alt="" title="Bruno" /></a>
+          <a href="../slike/jordan.jpg" title="Jordan : Length 28.20 m, weight 161 GT, built 2001. Specialized for small bluefish and bluefin tuna fish." rel="lbx-brodovi"><img src="../slike/t_jordan.jpg" alt="" title="Jordan" /></a>
+          <a href="../slike/stjepan.jpg" title="Jordan : Length 28.20 m, weight 161 GT, built 2001. Specialized for small bluefish." rel="lbx-brodovi"><img src="../slike/t_stjepan.jpg" alt="" title="Stjepan" /></a>
+        </div>      
+      </div>
+      <div id="podnozje"><a href="../index-en.html">Home page</a> | <a href="../kontakt-en.html">Contact &amp; address</a> | <a href="../riba-en.html">Pilchard &amp; anchovy</a> | <a href="../index.html">Hrvatski</a></div>
+    </div>
+  </div>
+<div id="kopirajt"><a href="http://www.tomislavdekovic.iz.hr/">©&nbsp;..::sheshnjak::..&nbsp;</a></div>
+</body></html>
